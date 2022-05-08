@@ -1,0 +1,5 @@
+
+brownie pm install OpenZeppelin/openzeppelin-contracts@4.0.0
+
+#install the following dependency in the config file brownie-config.yaml
+OpenZeppelin/openzeppelin-contracts@4.0.0
